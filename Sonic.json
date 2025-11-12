@@ -1,0 +1,2167 @@
+{
+    "format": "JSON",
+    "title": "Sonic",
+    "ztp": null,
+    "content": {
+        "nodes": {
+            "leaf01": {
+                "cpu": 2,
+                "memory": 4096,
+                "storage": 10,
+                "positioning": {
+                    "x": 275,
+                    "y": -550
+                },
+                "os": "sonic-vs-202305",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.7",
+                "management_mac": "02:00:00:00:00:05",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "leaf02": {
+                "cpu": 2,
+                "memory": 4096,
+                "storage": 10,
+                "positioning": {
+                    "x": 825,
+                    "y": -550
+                },
+                "os": "sonic-vs-202305",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.8",
+                "management_mac": "02:00:00:00:00:06",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "leaf03": {
+                "cpu": 2,
+                "memory": 4096,
+                "storage": 10,
+                "positioning": {
+                    "x": 1375,
+                    "y": -550
+                },
+                "os": "sonic-vs-202305",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.9",
+                "management_mac": "02:00:00:00:00:07",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "leaf04": {
+                "cpu": 2,
+                "memory": 4096,
+                "storage": 10,
+                "positioning": {
+                    "x": 1925,
+                    "y": -550
+                },
+                "os": "sonic-vs-202305",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.10",
+                "management_mac": "02:00:00:00:00:08",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "leaf05": {
+                "cpu": 2,
+                "memory": 4096,
+                "storage": 10,
+                "positioning": {
+                    "x": 2475,
+                    "y": -550
+                },
+                "os": "sonic-vs-202305",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.11",
+                "management_mac": "02:00:00:00:00:09",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "leaf06": {
+                "cpu": 2,
+                "memory": 4096,
+                "storage": 10,
+                "positioning": {
+                    "x": 3025,
+                    "y": -550
+                },
+                "os": "sonic-vs-202305",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.12",
+                "management_mac": "02:00:00:00:00:0A",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "leaf07": {
+                "cpu": 2,
+                "memory": 4096,
+                "storage": 10,
+                "positioning": {
+                    "x": 3575,
+                    "y": -550
+                },
+                "os": "sonic-vs-202305",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.13",
+                "management_mac": "02:00:00:00:00:0B",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "leaf08": {
+                "cpu": 2,
+                "memory": 4096,
+                "storage": 10,
+                "positioning": {
+                    "x": 4125,
+                    "y": -550
+                },
+                "os": "sonic-vs-202305",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.14",
+                "management_mac": "02:00:00:00:00:0C",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "server01-1": {
+                "cpu": 2,
+                "memory": 1024,
+                "storage": 10,
+                "positioning": {
+                    "x": -275,
+                    "y": -275
+                },
+                "os": "generic/ubuntu2404",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.15",
+                "management_mac": "02:00:00:00:00:0D",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "server01-2": {
+                "cpu": 2,
+                "memory": 1024,
+                "storage": 10,
+                "positioning": {
+                    "x": 0,
+                    "y": -275
+                },
+                "os": "generic/ubuntu2404",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.16",
+                "management_mac": "02:00:00:00:00:0E",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "server01-3": {
+                "cpu": 2,
+                "memory": 1024,
+                "storage": 10,
+                "positioning": {
+                    "x": 275,
+                    "y": -275
+                },
+                "os": "generic/ubuntu2404",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.17",
+                "management_mac": "02:00:00:00:00:0F",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "server01-4": {
+                "cpu": 2,
+                "memory": 1024,
+                "storage": 10,
+                "positioning": {
+                    "x": 550,
+                    "y": -275
+                },
+                "os": "generic/ubuntu2404",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.18",
+                "management_mac": "02:00:00:00:00:10",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "server02-1": {
+                "cpu": 2,
+                "memory": 1024,
+                "storage": 10,
+                "positioning": {
+                    "x": 550,
+                    "y": 0
+                },
+                "os": "generic/ubuntu2404",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.19",
+                "management_mac": "02:00:00:00:00:11",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "server02-2": {
+                "cpu": 2,
+                "memory": 1024,
+                "storage": 10,
+                "positioning": {
+                    "x": 825,
+                    "y": 0
+                },
+                "os": "generic/ubuntu2404",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.20",
+                "management_mac": "02:00:00:00:00:12",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "server02-3": {
+                "cpu": 2,
+                "memory": 1024,
+                "storage": 10,
+                "positioning": {
+                    "x": 1100,
+                    "y": 0
+                },
+                "os": "generic/ubuntu2404",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.21",
+                "management_mac": "02:00:00:00:00:13",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "server02-4": {
+                "cpu": 2,
+                "memory": 1024,
+                "storage": 10,
+                "positioning": {
+                    "x": 1375,
+                    "y": 0
+                },
+                "os": "generic/ubuntu2404",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.22",
+                "management_mac": "02:00:00:00:00:14",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "server03-1": {
+                "cpu": 2,
+                "memory": 1024,
+                "storage": 10,
+                "positioning": {
+                    "x": 825,
+                    "y": -275
+                },
+                "os": "generic/ubuntu2404",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.23",
+                "management_mac": "02:00:00:00:00:15",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "server03-2": {
+                "cpu": 2,
+                "memory": 1024,
+                "storage": 10,
+                "positioning": {
+                    "x": 1100,
+                    "y": -275
+                },
+                "os": "generic/ubuntu2404",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.24",
+                "management_mac": "02:00:00:00:00:16",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "server03-3": {
+                "cpu": 2,
+                "memory": 1024,
+                "storage": 10,
+                "positioning": {
+                    "x": 1375,
+                    "y": -275
+                },
+                "os": "generic/ubuntu2404",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.25",
+                "management_mac": "02:00:00:00:00:17",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "server03-4": {
+                "cpu": 2,
+                "memory": 1024,
+                "storage": 10,
+                "positioning": {
+                    "x": 1650,
+                    "y": -275
+                },
+                "os": "generic/ubuntu2404",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.26",
+                "management_mac": "02:00:00:00:00:18",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "server04-1": {
+                "cpu": 2,
+                "memory": 1024,
+                "storage": 10,
+                "positioning": {
+                    "x": 1650,
+                    "y": 0
+                },
+                "os": "generic/ubuntu2404",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.27",
+                "management_mac": "02:00:00:00:00:19",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "server04-2": {
+                "cpu": 2,
+                "memory": 1024,
+                "storage": 10,
+                "positioning": {
+                    "x": 1925,
+                    "y": 0
+                },
+                "os": "generic/ubuntu2404",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.28",
+                "management_mac": "02:00:00:00:00:1A",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "server04-3": {
+                "cpu": 2,
+                "memory": 1024,
+                "storage": 10,
+                "positioning": {
+                    "x": 2200,
+                    "y": 0
+                },
+                "os": "generic/ubuntu2404",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.29",
+                "management_mac": "02:00:00:00:00:1B",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "server04-4": {
+                "cpu": 2,
+                "memory": 1024,
+                "storage": 10,
+                "positioning": {
+                    "x": 2475,
+                    "y": 0
+                },
+                "os": "generic/ubuntu2404",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.30",
+                "management_mac": "02:00:00:00:00:1C",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "server05-1": {
+                "cpu": 2,
+                "memory": 1024,
+                "storage": 10,
+                "positioning": {
+                    "x": 1925,
+                    "y": -275
+                },
+                "os": "generic/ubuntu2404",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.31",
+                "management_mac": "02:00:00:00:00:1D",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "server05-2": {
+                "cpu": 2,
+                "memory": 1024,
+                "storage": 10,
+                "positioning": {
+                    "x": 2200,
+                    "y": -275
+                },
+                "os": "generic/ubuntu2404",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.32",
+                "management_mac": "02:00:00:00:00:1E",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "server05-3": {
+                "cpu": 2,
+                "memory": 1024,
+                "storage": 10,
+                "positioning": {
+                    "x": 2475,
+                    "y": -275
+                },
+                "os": "generic/ubuntu2404",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.33",
+                "management_mac": "02:00:00:00:00:1F",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "server05-4": {
+                "cpu": 2,
+                "memory": 1024,
+                "storage": 10,
+                "positioning": {
+                    "x": 2750,
+                    "y": -275
+                },
+                "os": "generic/ubuntu2404",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.34",
+                "management_mac": "02:00:00:00:00:20",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "server06-1": {
+                "cpu": 2,
+                "memory": 1024,
+                "storage": 10,
+                "positioning": {
+                    "x": 2750,
+                    "y": 0
+                },
+                "os": "generic/ubuntu2404",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.35",
+                "management_mac": "02:00:00:00:00:21",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "server06-2": {
+                "cpu": 2,
+                "memory": 1024,
+                "storage": 10,
+                "positioning": {
+                    "x": 3025,
+                    "y": 0
+                },
+                "os": "generic/ubuntu2404",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.36",
+                "management_mac": "02:00:00:00:00:22",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "server06-3": {
+                "cpu": 2,
+                "memory": 1024,
+                "storage": 10,
+                "positioning": {
+                    "x": 3300,
+                    "y": 0
+                },
+                "os": "generic/ubuntu2404",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.37",
+                "management_mac": "02:00:00:00:00:23",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "server06-4": {
+                "cpu": 2,
+                "memory": 1024,
+                "storage": 10,
+                "positioning": {
+                    "x": 3575,
+                    "y": 0
+                },
+                "os": "generic/ubuntu2404",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.38",
+                "management_mac": "02:00:00:00:00:24",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "server07-1": {
+                "cpu": 2,
+                "memory": 1024,
+                "storage": 10,
+                "positioning": {
+                    "x": 3025,
+                    "y": -275
+                },
+                "os": "generic/ubuntu2404",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.39",
+                "management_mac": "02:00:00:00:00:25",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "server07-2": {
+                "cpu": 2,
+                "memory": 1024,
+                "storage": 10,
+                "positioning": {
+                    "x": 3300,
+                    "y": -275
+                },
+                "os": "generic/ubuntu2404",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.40",
+                "management_mac": "02:00:00:00:00:26",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "server07-3": {
+                "cpu": 2,
+                "memory": 1024,
+                "storage": 10,
+                "positioning": {
+                    "x": 3575,
+                    "y": -275
+                },
+                "os": "generic/ubuntu2404",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.41",
+                "management_mac": "02:00:00:00:00:27",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "server07-4": {
+                "cpu": 2,
+                "memory": 1024,
+                "storage": 10,
+                "positioning": {
+                    "x": 3850,
+                    "y": -275
+                },
+                "os": "generic/ubuntu2404",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.42",
+                "management_mac": "02:00:00:00:00:28",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "server08-1": {
+                "cpu": 2,
+                "memory": 1024,
+                "storage": 10,
+                "positioning": {
+                    "x": 3850,
+                    "y": 0
+                },
+                "os": "generic/ubuntu2404",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.43",
+                "management_mac": "02:00:00:00:00:29",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "server08-2": {
+                "cpu": 2,
+                "memory": 1024,
+                "storage": 10,
+                "positioning": {
+                    "x": 4125,
+                    "y": 0
+                },
+                "os": "generic/ubuntu2404",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.44",
+                "management_mac": "02:00:00:00:00:2A",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "server08-3": {
+                "cpu": 2,
+                "memory": 1024,
+                "storage": 10,
+                "positioning": {
+                    "x": 4400,
+                    "y": 0
+                },
+                "os": "generic/ubuntu2404",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.45",
+                "management_mac": "02:00:00:00:00:2B",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "server08-4": {
+                "cpu": 2,
+                "memory": 1024,
+                "storage": 10,
+                "positioning": {
+                    "x": 4675,
+                    "y": 0
+                },
+                "os": "generic/ubuntu2404",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.46",
+                "management_mac": "02:00:00:00:00:2C",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "spine01": {
+                "cpu": 2,
+                "memory": 4096,
+                "storage": 10,
+                "positioning": {
+                    "x": 550,
+                    "y": -825
+                },
+                "os": "sonic-vs-202305",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.3",
+                "management_mac": "02:00:00:00:00:01",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "spine02": {
+                "cpu": 2,
+                "memory": 4096,
+                "storage": 10,
+                "positioning": {
+                    "x": 1650,
+                    "y": -825
+                },
+                "os": "sonic-vs-202305",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.4",
+                "management_mac": "02:00:00:00:00:02",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "spine03": {
+                "cpu": 2,
+                "memory": 4096,
+                "storage": 10,
+                "positioning": {
+                    "x": 2750,
+                    "y": -825
+                },
+                "os": "sonic-vs-202305",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.5",
+                "management_mac": "02:00:00:00:00:03",
+                "cpu_options": [],
+                "storage_pci": {}
+            },
+            "spine04": {
+                "cpu": 2,
+                "memory": 4096,
+                "storage": 10,
+                "positioning": {
+                    "x": 3850,
+                    "y": -825
+                },
+                "os": "sonic-vs-202305",
+                "features": {
+                    "uefi": false,
+                    "tpm": false
+                },
+                "pxehost": false,
+                "secureboot": false,
+                "oob": false,
+                "emulation_type": null,
+                "network_pci": {},
+                "management_ip": "192.168.200.6",
+                "management_mac": "02:00:00:00:00:04",
+                "cpu_options": [],
+                "storage_pci": {}
+            }
+        },
+        "links": [
+            [
+                {
+                    "interface": "eth2",
+                    "node": "leaf01",
+                    "mac": "48:B0:2D:00:00:41",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink"
+                },
+                {
+                    "interface": "eth1",
+                    "node": "spine01",
+                    "mac": "48:B0:2D:00:00:42",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink",
+                    "scalable_unit": null
+                }
+            ],
+            [
+                {
+                    "interface": "eth3",
+                    "node": "leaf01",
+                    "mac": "48:B0:2D:00:00:43",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink"
+                },
+                {
+                    "interface": "eth1",
+                    "node": "spine02",
+                    "mac": "48:B0:2D:00:00:44",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink",
+                    "scalable_unit": null
+                }
+            ],
+            [
+                {
+                    "interface": "eth4",
+                    "node": "leaf01",
+                    "mac": "48:B0:2D:00:00:45",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink"
+                },
+                {
+                    "interface": "eth1",
+                    "node": "spine03",
+                    "mac": "48:B0:2D:00:00:46",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink",
+                    "scalable_unit": null
+                }
+            ],
+            [
+                {
+                    "interface": "eth5",
+                    "node": "leaf01",
+                    "mac": "48:B0:2D:00:00:47",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink"
+                },
+                {
+                    "interface": "eth1",
+                    "node": "spine04",
+                    "mac": "48:B0:2D:00:00:48",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink",
+                    "scalable_unit": null
+                }
+            ],
+            [
+                {
+                    "interface": "Ethernet80",
+                    "node": "leaf01",
+                    "mac": "48:B0:2D:00:00:02",
+                    "network_pci": null,
+                    "interface_role": "host-facing",
+                    "scalable_unit": 1
+                },
+                {
+                    "interface": "eth1",
+                    "node": "server01-1",
+                    "mac": "48:B0:2D:00:00:00",
+                    "network_pci": null,
+                    "interface_role": "uplink",
+                    "scalable_unit": 1
+                }
+            ],
+            [
+                {
+                    "interface": "Ethernet84",
+                    "node": "leaf01",
+                    "mac": "48:B0:2D:00:00:04",
+                    "network_pci": null,
+                    "interface_role": "host-facing",
+                    "scalable_unit": 1
+                },
+                {
+                    "interface": "eth1",
+                    "node": "server01-2",
+                    "mac": "48:B0:2D:00:00:03",
+                    "network_pci": null,
+                    "interface_role": "uplink",
+                    "scalable_unit": 1
+                }
+            ],
+            [
+                {
+                    "interface": "Ethernet88",
+                    "node": "leaf01",
+                    "mac": "48:B0:2D:00:00:06",
+                    "network_pci": null,
+                    "interface_role": "host-facing",
+                    "scalable_unit": 1
+                },
+                {
+                    "interface": "eth1",
+                    "node": "server01-3",
+                    "mac": "48:B0:2D:00:00:05",
+                    "network_pci": null,
+                    "interface_role": "uplink",
+                    "scalable_unit": 1
+                }
+            ],
+            [
+                {
+                    "interface": "Ethernet92",
+                    "node": "leaf01",
+                    "mac": "48:B0:2D:00:00:08",
+                    "network_pci": null,
+                    "interface_role": "host-facing",
+                    "scalable_unit": 1
+                },
+                {
+                    "interface": "eth1",
+                    "node": "server01-4",
+                    "mac": "48:B0:2D:00:00:07",
+                    "network_pci": null,
+                    "interface_role": "uplink",
+                    "scalable_unit": 1
+                }
+            ],
+            [
+                {
+                    "interface": "eth2",
+                    "node": "leaf02",
+                    "mac": "48:B0:2D:00:00:49",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink"
+                },
+                {
+                    "interface": "eth2",
+                    "node": "spine01",
+                    "mac": "48:B0:2D:00:00:4A",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink",
+                    "scalable_unit": null
+                }
+            ],
+            [
+                {
+                    "interface": "eth3",
+                    "node": "leaf02",
+                    "mac": "48:B0:2D:00:00:4B",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink"
+                },
+                {
+                    "interface": "eth2",
+                    "node": "spine02",
+                    "mac": "48:B0:2D:00:00:4C",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink",
+                    "scalable_unit": null
+                }
+            ],
+            [
+                {
+                    "interface": "eth4",
+                    "node": "leaf02",
+                    "mac": "48:B0:2D:00:00:4D",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink"
+                },
+                {
+                    "interface": "eth2",
+                    "node": "spine03",
+                    "mac": "48:B0:2D:00:00:4E",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink",
+                    "scalable_unit": null
+                }
+            ],
+            [
+                {
+                    "interface": "eth5",
+                    "node": "leaf02",
+                    "mac": "48:B0:2D:00:00:4F",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink"
+                },
+                {
+                    "interface": "eth2",
+                    "node": "spine04",
+                    "mac": "48:B0:2D:00:00:50",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink",
+                    "scalable_unit": null
+                }
+            ],
+            [
+                {
+                    "interface": "Ethernet100",
+                    "node": "leaf02",
+                    "mac": "48:B0:2D:00:00:0C",
+                    "network_pci": null,
+                    "interface_role": "host-facing",
+                    "scalable_unit": 2
+                },
+                {
+                    "interface": "eth1",
+                    "node": "server02-2",
+                    "mac": "48:B0:2D:00:00:0B",
+                    "network_pci": null,
+                    "interface_role": "uplink",
+                    "scalable_unit": 2
+                }
+            ],
+            [
+                {
+                    "interface": "Ethernet104",
+                    "node": "leaf02",
+                    "mac": "48:B0:2D:00:00:0E",
+                    "network_pci": null,
+                    "interface_role": "host-facing",
+                    "scalable_unit": 2
+                },
+                {
+                    "interface": "eth1",
+                    "node": "server02-3",
+                    "mac": "48:B0:2D:00:00:0D",
+                    "network_pci": null,
+                    "interface_role": "uplink",
+                    "scalable_unit": 2
+                }
+            ],
+            [
+                {
+                    "interface": "Ethernet108",
+                    "node": "leaf02",
+                    "mac": "48:B0:2D:00:00:10",
+                    "network_pci": null,
+                    "interface_role": "host-facing",
+                    "scalable_unit": 2
+                },
+                {
+                    "interface": "eth1",
+                    "node": "server02-4",
+                    "mac": "48:B0:2D:00:00:0F",
+                    "network_pci": null,
+                    "interface_role": "uplink",
+                    "scalable_unit": 2
+                }
+            ],
+            [
+                {
+                    "interface": "Ethernet96",
+                    "node": "leaf02",
+                    "mac": "48:B0:2D:00:00:0A",
+                    "network_pci": null,
+                    "interface_role": "host-facing",
+                    "scalable_unit": 2
+                },
+                {
+                    "interface": "eth1",
+                    "node": "server02-1",
+                    "mac": "48:B0:2D:00:00:09",
+                    "network_pci": null,
+                    "interface_role": "uplink",
+                    "scalable_unit": 2
+                }
+            ],
+            [
+                {
+                    "interface": "eth2",
+                    "node": "leaf03",
+                    "mac": "48:B0:2D:00:00:51",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink"
+                },
+                {
+                    "interface": "eth3",
+                    "node": "spine01",
+                    "mac": "48:B0:2D:00:00:52",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink",
+                    "scalable_unit": null
+                }
+            ],
+            [
+                {
+                    "interface": "eth3",
+                    "node": "leaf03",
+                    "mac": "48:B0:2D:00:00:53",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink"
+                },
+                {
+                    "interface": "eth3",
+                    "node": "spine02",
+                    "mac": "48:B0:2D:00:00:54",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink",
+                    "scalable_unit": null
+                }
+            ],
+            [
+                {
+                    "interface": "eth4",
+                    "node": "leaf03",
+                    "mac": "48:B0:2D:00:00:55",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink"
+                },
+                {
+                    "interface": "eth3",
+                    "node": "spine03",
+                    "mac": "48:B0:2D:00:00:56",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink",
+                    "scalable_unit": null
+                }
+            ],
+            [
+                {
+                    "interface": "eth5",
+                    "node": "leaf03",
+                    "mac": "48:B0:2D:00:00:57",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink"
+                },
+                {
+                    "interface": "eth3",
+                    "node": "spine04",
+                    "mac": "48:B0:2D:00:00:58",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink",
+                    "scalable_unit": null
+                }
+            ],
+            [
+                {
+                    "interface": "Ethernet112",
+                    "node": "leaf03",
+                    "mac": "48:B0:2D:00:00:12",
+                    "network_pci": null,
+                    "interface_role": "host-facing",
+                    "scalable_unit": 3
+                },
+                {
+                    "interface": "eth1",
+                    "node": "server03-1",
+                    "mac": "48:B0:2D:00:00:11",
+                    "network_pci": null,
+                    "interface_role": "uplink",
+                    "scalable_unit": 3
+                }
+            ],
+            [
+                {
+                    "interface": "Ethernet116",
+                    "node": "leaf03",
+                    "mac": "48:B0:2D:00:00:14",
+                    "network_pci": null,
+                    "interface_role": "host-facing",
+                    "scalable_unit": 3
+                },
+                {
+                    "interface": "eth1",
+                    "node": "server03-2",
+                    "mac": "48:B0:2D:00:00:13",
+                    "network_pci": null,
+                    "interface_role": "uplink",
+                    "scalable_unit": 3
+                }
+            ],
+            [
+                {
+                    "interface": "Ethernet120",
+                    "node": "leaf03",
+                    "mac": "48:B0:2D:00:00:16",
+                    "network_pci": null,
+                    "interface_role": "host-facing",
+                    "scalable_unit": 3
+                },
+                {
+                    "interface": "eth1",
+                    "node": "server03-3",
+                    "mac": "48:B0:2D:00:00:15",
+                    "network_pci": null,
+                    "interface_role": "uplink",
+                    "scalable_unit": 3
+                }
+            ],
+            [
+                {
+                    "interface": "Ethernet124",
+                    "node": "leaf03",
+                    "mac": "48:B0:2D:00:00:18",
+                    "network_pci": null,
+                    "interface_role": "host-facing",
+                    "scalable_unit": 3
+                },
+                {
+                    "interface": "eth1",
+                    "node": "server03-4",
+                    "mac": "48:B0:2D:00:00:17",
+                    "network_pci": null,
+                    "interface_role": "uplink",
+                    "scalable_unit": 3
+                }
+            ],
+            [
+                {
+                    "interface": "eth2",
+                    "node": "leaf04",
+                    "mac": "48:B0:2D:00:00:59",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink"
+                },
+                {
+                    "interface": "eth4",
+                    "node": "spine01",
+                    "mac": "48:B0:2D:00:00:5A",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink",
+                    "scalable_unit": null
+                }
+            ],
+            [
+                {
+                    "interface": "eth3",
+                    "node": "leaf04",
+                    "mac": "48:B0:2D:00:00:5B",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink"
+                },
+                {
+                    "interface": "eth4",
+                    "node": "spine02",
+                    "mac": "48:B0:2D:00:00:5C",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink",
+                    "scalable_unit": null
+                }
+            ],
+            [
+                {
+                    "interface": "eth4",
+                    "node": "leaf04",
+                    "mac": "48:B0:2D:00:00:5D",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink"
+                },
+                {
+                    "interface": "eth4",
+                    "node": "spine03",
+                    "mac": "48:B0:2D:00:00:5E",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink",
+                    "scalable_unit": null
+                }
+            ],
+            [
+                {
+                    "interface": "eth5",
+                    "node": "leaf04",
+                    "mac": "48:B0:2D:00:00:5F",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink"
+                },
+                {
+                    "interface": "eth4",
+                    "node": "spine04",
+                    "mac": "48:B0:2D:00:00:60",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink",
+                    "scalable_unit": null
+                }
+            ],
+            [
+                {
+                    "interface": "Ethernet128",
+                    "node": "leaf04",
+                    "mac": "48:B0:2D:00:00:1A",
+                    "network_pci": null,
+                    "interface_role": "host-facing",
+                    "scalable_unit": 4
+                },
+                {
+                    "interface": "eth1",
+                    "node": "server04-1",
+                    "mac": "48:B0:2D:00:00:19",
+                    "network_pci": null,
+                    "interface_role": "uplink",
+                    "scalable_unit": 4
+                }
+            ],
+            [
+                {
+                    "interface": "Ethernet132",
+                    "node": "leaf04",
+                    "mac": "48:B0:2D:00:00:1C",
+                    "network_pci": null,
+                    "interface_role": "host-facing",
+                    "scalable_unit": 4
+                },
+                {
+                    "interface": "eth1",
+                    "node": "server04-2",
+                    "mac": "48:B0:2D:00:00:1B",
+                    "network_pci": null,
+                    "interface_role": "uplink",
+                    "scalable_unit": 4
+                }
+            ],
+            [
+                {
+                    "interface": "Ethernet136",
+                    "node": "leaf04",
+                    "mac": "48:B0:2D:00:00:1E",
+                    "network_pci": null,
+                    "interface_role": "host-facing",
+                    "scalable_unit": 4
+                },
+                {
+                    "interface": "eth1",
+                    "node": "server04-3",
+                    "mac": "48:B0:2D:00:00:1D",
+                    "network_pci": null,
+                    "interface_role": "uplink",
+                    "scalable_unit": 4
+                }
+            ],
+            [
+                {
+                    "interface": "Ethernet140",
+                    "node": "leaf04",
+                    "mac": "48:B0:2D:00:00:20",
+                    "network_pci": null,
+                    "interface_role": "host-facing",
+                    "scalable_unit": 4
+                },
+                {
+                    "interface": "eth1",
+                    "node": "server04-4",
+                    "mac": "48:B0:2D:00:00:1F",
+                    "network_pci": null,
+                    "interface_role": "uplink",
+                    "scalable_unit": 4
+                }
+            ],
+            [
+                {
+                    "interface": "eth2",
+                    "node": "leaf05",
+                    "mac": "48:B0:2D:00:00:61",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink"
+                },
+                {
+                    "interface": "eth5",
+                    "node": "spine01",
+                    "mac": "48:B0:2D:00:00:62",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink",
+                    "scalable_unit": null
+                }
+            ],
+            [
+                {
+                    "interface": "eth3",
+                    "node": "leaf05",
+                    "mac": "48:B0:2D:00:00:63",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink"
+                },
+                {
+                    "interface": "eth5",
+                    "node": "spine02",
+                    "mac": "48:B0:2D:00:00:64",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink",
+                    "scalable_unit": null
+                }
+            ],
+            [
+                {
+                    "interface": "eth4",
+                    "node": "leaf05",
+                    "mac": "48:B0:2D:00:00:65",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink"
+                },
+                {
+                    "interface": "eth5",
+                    "node": "spine03",
+                    "mac": "48:B0:2D:00:00:66",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink",
+                    "scalable_unit": null
+                }
+            ],
+            [
+                {
+                    "interface": "eth5",
+                    "node": "leaf05",
+                    "mac": "48:B0:2D:00:00:67",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink"
+                },
+                {
+                    "interface": "eth5",
+                    "node": "spine04",
+                    "mac": "48:B0:2D:00:00:68",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink",
+                    "scalable_unit": null
+                }
+            ],
+            [
+                {
+                    "interface": "Ethernet144",
+                    "node": "leaf05",
+                    "mac": "48:B0:2D:00:00:22",
+                    "network_pci": null,
+                    "interface_role": "host-facing",
+                    "scalable_unit": 5
+                },
+                {
+                    "interface": "eth1",
+                    "node": "server05-1",
+                    "mac": "48:B0:2D:00:00:21",
+                    "network_pci": null,
+                    "interface_role": "uplink",
+                    "scalable_unit": 5
+                }
+            ],
+            [
+                {
+                    "interface": "Ethernet148",
+                    "node": "leaf05",
+                    "mac": "48:B0:2D:00:00:24",
+                    "network_pci": null,
+                    "interface_role": "host-facing",
+                    "scalable_unit": 5
+                },
+                {
+                    "interface": "eth1",
+                    "node": "server05-2",
+                    "mac": "48:B0:2D:00:00:23",
+                    "network_pci": null,
+                    "interface_role": "uplink",
+                    "scalable_unit": 5
+                }
+            ],
+            [
+                {
+                    "interface": "Ethernet152",
+                    "node": "leaf05",
+                    "mac": "48:B0:2D:00:00:26",
+                    "network_pci": null,
+                    "interface_role": "host-facing",
+                    "scalable_unit": 5
+                },
+                {
+                    "interface": "eth1",
+                    "node": "server05-3",
+                    "mac": "48:B0:2D:00:00:25",
+                    "network_pci": null,
+                    "interface_role": "uplink",
+                    "scalable_unit": 5
+                }
+            ],
+            [
+                {
+                    "interface": "Ethernet156",
+                    "node": "leaf05",
+                    "mac": "48:B0:2D:00:00:28",
+                    "network_pci": null,
+                    "interface_role": "host-facing",
+                    "scalable_unit": 5
+                },
+                {
+                    "interface": "eth1",
+                    "node": "server05-4",
+                    "mac": "48:B0:2D:00:00:27",
+                    "network_pci": null,
+                    "interface_role": "uplink",
+                    "scalable_unit": 5
+                }
+            ],
+            [
+                {
+                    "interface": "eth2",
+                    "node": "leaf06",
+                    "mac": "48:B0:2D:00:00:69",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink"
+                },
+                {
+                    "interface": "eth6",
+                    "node": "spine01",
+                    "mac": "48:B0:2D:00:00:6A",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink",
+                    "scalable_unit": null
+                }
+            ],
+            [
+                {
+                    "interface": "eth3",
+                    "node": "leaf06",
+                    "mac": "48:B0:2D:00:00:6B",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink"
+                },
+                {
+                    "interface": "eth6",
+                    "node": "spine02",
+                    "mac": "48:B0:2D:00:00:6C",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink",
+                    "scalable_unit": null
+                }
+            ],
+            [
+                {
+                    "interface": "eth4",
+                    "node": "leaf06",
+                    "mac": "48:B0:2D:00:00:6D",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink"
+                },
+                {
+                    "interface": "eth6",
+                    "node": "spine03",
+                    "mac": "48:B0:2D:00:00:6E",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink",
+                    "scalable_unit": null
+                }
+            ],
+            [
+                {
+                    "interface": "eth5",
+                    "node": "leaf06",
+                    "mac": "48:B0:2D:00:00:6F",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink"
+                },
+                {
+                    "interface": "eth6",
+                    "node": "spine04",
+                    "mac": "48:B0:2D:00:00:70",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink",
+                    "scalable_unit": null
+                }
+            ],
+            [
+                {
+                    "interface": "Ethernet160",
+                    "node": "leaf06",
+                    "mac": "48:B0:2D:00:00:2A",
+                    "network_pci": null,
+                    "interface_role": "host-facing",
+                    "scalable_unit": 6
+                },
+                {
+                    "interface": "eth1",
+                    "node": "server06-1",
+                    "mac": "48:B0:2D:00:00:29",
+                    "network_pci": null,
+                    "interface_role": "uplink",
+                    "scalable_unit": 6
+                }
+            ],
+            [
+                {
+                    "interface": "Ethernet164",
+                    "node": "leaf06",
+                    "mac": "48:B0:2D:00:00:2C",
+                    "network_pci": null,
+                    "interface_role": "host-facing",
+                    "scalable_unit": 6
+                },
+                {
+                    "interface": "eth1",
+                    "node": "server06-2",
+                    "mac": "48:B0:2D:00:00:2B",
+                    "network_pci": null,
+                    "interface_role": "uplink",
+                    "scalable_unit": 6
+                }
+            ],
+            [
+                {
+                    "interface": "Ethernet168",
+                    "node": "leaf06",
+                    "mac": "48:B0:2D:00:00:2E",
+                    "network_pci": null,
+                    "interface_role": "host-facing",
+                    "scalable_unit": 6
+                },
+                {
+                    "interface": "eth1",
+                    "node": "server06-3",
+                    "mac": "48:B0:2D:00:00:2D",
+                    "network_pci": null,
+                    "interface_role": "uplink",
+                    "scalable_unit": 6
+                }
+            ],
+            [
+                {
+                    "interface": "Ethernet172",
+                    "node": "leaf06",
+                    "mac": "48:B0:2D:00:00:30",
+                    "network_pci": null,
+                    "interface_role": "host-facing",
+                    "scalable_unit": 6
+                },
+                {
+                    "interface": "eth1",
+                    "node": "server06-4",
+                    "mac": "48:B0:2D:00:00:2F",
+                    "network_pci": null,
+                    "interface_role": "uplink",
+                    "scalable_unit": 6
+                }
+            ],
+            [
+                {
+                    "interface": "eth2",
+                    "node": "leaf07",
+                    "mac": "48:B0:2D:00:00:71",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink"
+                },
+                {
+                    "interface": "eth7",
+                    "node": "spine01",
+                    "mac": "48:B0:2D:00:00:72",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink",
+                    "scalable_unit": null
+                }
+            ],
+            [
+                {
+                    "interface": "eth3",
+                    "node": "leaf07",
+                    "mac": "48:B0:2D:00:00:73",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink"
+                },
+                {
+                    "interface": "eth7",
+                    "node": "spine02",
+                    "mac": "48:B0:2D:00:00:74",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink",
+                    "scalable_unit": null
+                }
+            ],
+            [
+                {
+                    "interface": "eth4",
+                    "node": "leaf07",
+                    "mac": "48:B0:2D:00:00:75",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink"
+                },
+                {
+                    "interface": "eth7",
+                    "node": "spine03",
+                    "mac": "48:B0:2D:00:00:76",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink",
+                    "scalable_unit": null
+                }
+            ],
+            [
+                {
+                    "interface": "eth5",
+                    "node": "leaf07",
+                    "mac": "48:B0:2D:00:00:77",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink"
+                },
+                {
+                    "interface": "eth7",
+                    "node": "spine04",
+                    "mac": "48:B0:2D:00:00:78",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink",
+                    "scalable_unit": null
+                }
+            ],
+            [
+                {
+                    "interface": "Ethernet176",
+                    "node": "leaf07",
+                    "mac": "48:B0:2D:00:00:32",
+                    "network_pci": null,
+                    "interface_role": "host-facing",
+                    "scalable_unit": 7
+                },
+                {
+                    "interface": "eth1",
+                    "node": "server07-1",
+                    "mac": "48:B0:2D:00:00:31",
+                    "network_pci": null,
+                    "interface_role": "uplink",
+                    "scalable_unit": 7
+                }
+            ],
+            [
+                {
+                    "interface": "Ethernet180",
+                    "node": "leaf07",
+                    "mac": "48:B0:2D:00:00:34",
+                    "network_pci": null,
+                    "interface_role": "host-facing",
+                    "scalable_unit": 7
+                },
+                {
+                    "interface": "eth1",
+                    "node": "server07-2",
+                    "mac": "48:B0:2D:00:00:33",
+                    "network_pci": null,
+                    "interface_role": "uplink",
+                    "scalable_unit": 7
+                }
+            ],
+            [
+                {
+                    "interface": "Ethernet184",
+                    "node": "leaf07",
+                    "mac": "48:B0:2D:00:00:36",
+                    "network_pci": null,
+                    "interface_role": "host-facing",
+                    "scalable_unit": 7
+                },
+                {
+                    "interface": "eth1",
+                    "node": "server07-3",
+                    "mac": "48:B0:2D:00:00:35",
+                    "network_pci": null,
+                    "interface_role": "uplink",
+                    "scalable_unit": 7
+                }
+            ],
+            [
+                {
+                    "interface": "Ethernet188",
+                    "node": "leaf07",
+                    "mac": "48:B0:2D:00:00:38",
+                    "network_pci": null,
+                    "interface_role": "host-facing",
+                    "scalable_unit": 7
+                },
+                {
+                    "interface": "eth1",
+                    "node": "server07-4",
+                    "mac": "48:B0:2D:00:00:37",
+                    "network_pci": null,
+                    "interface_role": "uplink",
+                    "scalable_unit": 7
+                }
+            ],
+            [
+                {
+                    "interface": "eth2",
+                    "node": "leaf08",
+                    "mac": "48:B0:2D:00:00:79",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink"
+                },
+                {
+                    "interface": "eth8",
+                    "node": "spine01",
+                    "mac": "48:B0:2D:00:00:7A",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink",
+                    "scalable_unit": null
+                }
+            ],
+            [
+                {
+                    "interface": "eth3",
+                    "node": "leaf08",
+                    "mac": "48:B0:2D:00:00:7B",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink"
+                },
+                {
+                    "interface": "eth8",
+                    "node": "spine02",
+                    "mac": "48:B0:2D:00:00:7C",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink",
+                    "scalable_unit": null
+                }
+            ],
+            [
+                {
+                    "interface": "eth4",
+                    "node": "leaf08",
+                    "mac": "48:B0:2D:00:00:7D",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink"
+                },
+                {
+                    "interface": "eth8",
+                    "node": "spine03",
+                    "mac": "48:B0:2D:00:00:7E",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink",
+                    "scalable_unit": null
+                }
+            ],
+            [
+                {
+                    "interface": "eth5",
+                    "node": "leaf08",
+                    "mac": "48:B0:2D:00:00:7F",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink"
+                },
+                {
+                    "interface": "eth8",
+                    "node": "spine04",
+                    "mac": "48:B0:2D:00:00:80",
+                    "network_pci": null,
+                    "interface_role": "fabric-uplink",
+                    "scalable_unit": null
+                }
+            ],
+            [
+                {
+                    "interface": "Ethernet192",
+                    "node": "leaf08",
+                    "mac": "48:B0:2D:00:00:3A",
+                    "network_pci": null,
+                    "interface_role": "host-facing",
+                    "scalable_unit": 8
+                },
+                {
+                    "interface": "eth1",
+                    "node": "server08-1",
+                    "mac": "48:B0:2D:00:00:39",
+                    "network_pci": null,
+                    "interface_role": "uplink",
+                    "scalable_unit": 8
+                }
+            ],
+            [
+                {
+                    "interface": "Ethernet196",
+                    "node": "leaf08",
+                    "mac": "48:B0:2D:00:00:3C",
+                    "network_pci": null,
+                    "interface_role": "host-facing",
+                    "scalable_unit": 8
+                },
+                {
+                    "interface": "eth1",
+                    "node": "server08-2",
+                    "mac": "48:B0:2D:00:00:3B",
+                    "network_pci": null,
+                    "interface_role": "uplink",
+                    "scalable_unit": 8
+                }
+            ],
+            [
+                {
+                    "interface": "Ethernet200",
+                    "node": "leaf08",
+                    "mac": "48:B0:2D:00:00:3E",
+                    "network_pci": null,
+                    "interface_role": "host-facing",
+                    "scalable_unit": 8
+                },
+                {
+                    "interface": "eth1",
+                    "node": "server08-3",
+                    "mac": "48:B0:2D:00:00:3D",
+                    "network_pci": null,
+                    "interface_role": "uplink",
+                    "scalable_unit": 8
+                }
+            ],
+            [
+                {
+                    "interface": "Ethernet204",
+                    "node": "leaf08",
+                    "mac": "48:B0:2D:00:00:40",
+                    "network_pci": null,
+                    "interface_role": "host-facing",
+                    "scalable_unit": 8
+                },
+                {
+                    "interface": "eth1",
+                    "node": "server08-4",
+                    "mac": "48:B0:2D:00:00:3F",
+                    "network_pci": null,
+                    "interface_role": "uplink",
+                    "scalable_unit": 8
+                }
+            ]
+        ],
+        "oob": {
+            "nodes": {
+                "oob-mgmt-server": {
+                    "cpu": 1,
+                    "memory": 1024,
+                    "storage": 10,
+                    "positioning": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                "oob-mgmt-switch": {
+                    "cpu": 1,
+                    "memory": 2048,
+                    "storage": 10,
+                    "positioning": {
+                        "x": 0,
+                        "y": 0
+                    }
+                }
+            },
+            "enable_dhcp": true
+        },
+        "netq": false
+    }
+}
